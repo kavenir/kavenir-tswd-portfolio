@@ -14,7 +14,7 @@ I earned my bachelor's degree from John Carroll University located in Cleveland,
 # What I hope to learn
 Overall, in this course, Telling Stories with Data, I am excited to look at data creatively and gain a new perspective on aata visualization! 
 
-The Top 5 things I am most interested in getting out of the course: 
+**The Top 5 things I am most interested in getting out of the course:** 
 1. Acquiring the best design practices (color, text, type of visualization, etc) what creating a data visualization to effectively tell a story about the data. 
 2. Finding different methods to represent data (not just the traditional bar or pie chart) and determining when it is best to utilize them. 
 3. Exploring the capablities and features of Tableau to create data visualizations. 
