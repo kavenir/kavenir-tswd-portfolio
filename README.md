@@ -1,7 +1,8 @@
 # kavenir-tswd-portfolio
 This is my public portfolio for Telling Stories with Data at Heinz College of Carnegie Mellon University! 
 
-- **URL: https://github.com/kavenir/kavenir-tswd-portfolio.git**
+- **Web Page URL: https://kavenir.github.io/kavenir-tswd-portfolio/**
+- **This repository: https://github.com/kavenir/kavenir-tswd-portfolio.git**
 
 # About me 
 <img src="https://github.com/kavenir/kavenir-tswd-portfolio/assets/117959120/76f80f03-ebb5-4e86-a95c-87063cf76c99.png" width="250" height="250">
@@ -29,7 +30,7 @@ I have always had a interest in the healthcare field and a passion for helping o
 - In-class sketching exercise 
 - Data visualization critique #1
 - Week One sketching exercise - Controlling Color
-- **Personal portfolio: https://github.com/kavenir/kavenir-tswd-portfolio.git**
+- **Personal portfolio: https://kavenir.github.io/kavenir-tswd-portfolio/**
   
 ## Week 2
 - **Data Visualization #1: [Visualizing Government Debt](visualizing-government-debt.md)**
