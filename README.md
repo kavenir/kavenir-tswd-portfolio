@@ -1,7 +1,7 @@
 # kavenir-tswd-portfolio
 This is my public portfolio for Telling Stories with Data at CMU! 
 
-- URL: https://github.com/kavenir/kavenir-tswd-portfolio.git
+- **URL: https://github.com/kavenir/kavenir-tswd-portfolio.git**
 
 # About me 
 <img src="https://github.com/kavenir/kavenir-tswd-portfolio/assets/117959120/76f80f03-ebb5-4e86-a95c-87063cf76c99.png" width="250" height="250">
