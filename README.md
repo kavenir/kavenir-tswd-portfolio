@@ -29,7 +29,7 @@ I have always had a interest in the healthcare field and a passion for helping o
 - In-class sketching exercise 
 - Data visualization critique #1
 - Week One sketching exercise - Controlling Color
-- Personal portfolio
+- **Personal portfolio: https://github.com/kavenir/kavenir-tswd-portfolio.git**
   
 ## Week 2
 - **Data Visualization #1: [Visualizing Government Debt](visualizing-government-debt.md)**
