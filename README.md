@@ -1,5 +1,5 @@
 # kavenir-tswd-portfolio
-This is my public portfolio for Telling Stories with Data at CMU! 
+This is my public portfolio for Telling Stories with Data at Heinz College of Carnegie Mellon University! 
 
 - **URL: https://github.com/kavenir/kavenir-tswd-portfolio.git**
 
