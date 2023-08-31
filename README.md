@@ -32,22 +32,22 @@ I have always had a interest in the healthcare field and a passion for helping o
 - Personal portfolio
   
 ## Week 2
-- Data Visualization #1: 
+- Data Visualization #1: [Visualizing Government Debt](visualizing-government-debt.md)
 - Week Two sketching exercise - Crafting for Clarity
 
 ## Week 3
-- Assignment 3 & 4, Critique by Design: [critique-by-design.md]
+- Assignment 3 & 4: [Critique by Design](critique-by-design.md)
   
 ## Week 4
 - Week Four sketching exercise - Choosing Chart Types
-- Final Project, part one: 
+- Final Project, [Part One](final-project-part-one.md)
 
 ## Week 5 
 - Week Five sketching exercise - Practicing Persuasion 
-- Final Project, part two: 
+- Final Project, [Part Two](final-project-part-two.md)
 
 ## Week 6 
-- Final Project, part three: 
+- Final Project, [Part Three](final-project-part-three.md)
 
 ## Week 7
-- Final Project Presentation
+- Final Project Presentation: [Part One](final-project-part-one.md), [Part Two](final-project-part-two.md), [Part Three](final-project-part-three.md)
