@@ -4,6 +4,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 # About Me 
 <img src="https://github.com/kavenir/kavenir-tswd-portfolio/assets/117959120/76f80f03-ebb5-4e86-a95c-87063cf76c99.png" width="250" height="250">
 
+
 Hi! My name is Katelin Lauren Avenir, and my pronouns are she/her/hers. I am a second year graduate student in the Master's of Health Care Analytics and Information Technology (MSHCA) Program at Heinz College of Carnegie Mellon University. I was born and raised in suburb just north of Chicago, Illinois, but my parents are originally from the Philippines. 
 
 I earned my bachelor's degree from John Carroll University located in Cleveland, Ohio where I studied Data Science and Spanish. I was also a member of the Varsity Swimming and Diving team for three years. Upon graduating, I took on my first full-time position as a Clinical Research Business Development Liaison at University Hospitals where I soon transitioned into a Data Scientist role working on patient enrollment and recuritment for clinical trials. Soon after, I decided to pursue my master's degree at Heinz College because it was the perfect opporutnity to further my data science skills, but also learn and explore other disciplines that Heinz College offered with their comprehensive and holistic curriculum. 
