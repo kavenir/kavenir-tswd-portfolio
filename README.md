@@ -2,7 +2,7 @@
 This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About Me 
-![Katelin_Avenir](https://github.com/kavenir/kavenir-tswd-portfolio/assets/117959120/76f80f03-ebb5-4e86-a95c-87063cf76c99)=250x250
+![Katelin_Avenir](https://github.com/kavenir/kavenir-tswd-portfolio/assets/117959120/76f80f03-ebb5-4e86-a95c-87063cf76c99 =10x10) 
 
 Hi! My name is Katelin Lauren Avenir, and my pronouns are she/her/hers. I am a second year graduate student in the Master's of Health Care Analytics and Information Technology (MSHCA) Program at Heinz College of Carnegie Mellon University. I was born and raised in suburb just north of Chicago, Illinois, but my parents are originally from the Philippines. 
 
