@@ -32,22 +32,22 @@ I have always had a interest in the healthcare field and a passion for helping o
 - Personal portfolio
   
 ## Week 2
-- Data Visualization #1
+- Data Visualization #1: 
 - Week Two sketching exercise - Crafting for Clarity
 
 ## Week 3
-- Assignment 3 & 4, Critique by Design
+- Assignment 3 & 4, Critique by Design: critique-by-design.md
   
 ## Week 4
 - Week Four sketching exercise - Choosing Chart Types
-- Final Project, part one
+- Final Project, part one: 
 
 ## Week 5 
 - Week Five sketching exercise - Practicing Persuasion 
-- Final Project, part two
+- Final Project, part two: 
 
 ## Week 6 
-- Final Project, part three
+- Final Project, part three: 
 
 ## Week 7
 - Final Project Presentation
