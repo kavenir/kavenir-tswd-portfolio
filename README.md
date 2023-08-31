@@ -36,7 +36,7 @@ I have always had a interest in the healthcare field and a passion for helping o
 - Week Two sketching exercise - Crafting for Clarity
 
 ## Week 3
-- Assignment 3 & 4, Critique by Design: critique-by-design.md
+- Assignment 3 & 4, Critique by Design: [critique-by-design.md]
   
 ## Week 4
 - Week Four sketching exercise - Choosing Chart Types
