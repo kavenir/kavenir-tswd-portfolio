@@ -25,8 +25,9 @@ I have always had a interest in the healthcare field and a passion for helping o
 
 ## Week 1 
 - In-class sketching exercise 
-- Data visualization critique
+- Data visualization critique #1
 - Week One sketching exercise - Controlling Color
+- Personal portfolio
   
 ## Week 2
 - Data Visualization #1
