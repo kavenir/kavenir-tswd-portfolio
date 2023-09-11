@@ -10,3 +10,5 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/14973790"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: Create your own visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/14976058"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
