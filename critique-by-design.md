@@ -23,7 +23,7 @@ This is what lead me to my third sketch, which was my best propesed solution, th
 ### Sketch 2 (Slope Chart): 
 <div class="flourish-embed flourish-slope" data-src="visualisation/15044215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Sketch 3 (Simple Bar Chart) (aka my best proposed solution so far): 
+### Sketch 3 (Simple Bar Chart), my best proposed solution so far: 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15044273"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Step four: test the solution 
