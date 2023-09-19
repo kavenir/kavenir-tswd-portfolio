@@ -9,9 +9,14 @@ For this assignment, I used this data visualization, [Charting the 20 Top Growin
 ## Step two: critique the data visualization
 
 ## Step three: sketch out a solution
-Sketch 1: <div class="flourish-embed flourish-chart" data-src="visualisation/15044137"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Sketch 2: <div class="flourish-embed flourish-slope" data-src="visualisation/15044215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Sketch 3: <div class="flourish-embed flourish-chart" data-src="visualisation/15044273"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+### Sketch 1: 
+<div class="flourish-embed flourish-chart" data-src="visualisation/15044137"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Sketch 2
+<div class="flourish-embed flourish-slope" data-src="visualisation/15044215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Sketch 3: 
+<div class="flourish-embed flourish-chart" data-src="visualisation/15044273"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Step four: test the solution 
 
