@@ -28,13 +28,13 @@ This is what lead me to my third sketch, which was my best propesed solution, th
 
 ## Step four: test the solution 
 To test my proposed solution, I asked **7 questions** to my participants to capture specific feedback on the simple bar chart I created: 
-**1. Can you describe to me what you think this visualization is about?**
-**2. Is there anything you find surprising? Confusing? Misleading? Hard to interpret?**
-**3. Who do you think is the intended audience?**
-**4. Is the visualization interesting/does it grab your attention? Or are there stylistic changes that need to be considered such as color, text, etc?**
-**5. Is the visualization easy to understand with minimal effort and well communicated?**
-**6. Is all the data included necessary? Is there anything that should be removed or added?**
-**7. Overall, is there anything you would change or do differently?**
+  **1. Can you describe to me what you think this visualization is about?**
+  **2. Is there anything you find surprising? Confusing? Misleading? Hard to interpret?**
+  **3. Who do you think is the intended audience?**
+  **4. Is the visualization interesting/does it grab your attention? Or are there stylistic changes that need to be considered such as color, text, etc?**
+  **5. Is the visualization easy to understand with minimal effort and well communicated?**
+  **6. Is all the data included necessary? Is there anything that should be removed or added?**
+  **7. Overall, is there anything you would change or do differently?**
 
 I asked for feedback from two female students in their mid 20's, and they both offered feedback that was very helpful in finalizing my solution. Both students were able to interpret the purpose of the visualization with minimal effort based on the clear title, the occupation with the highest growth rate (wind turbine service technicians) was colored green, and simple bar charts are relatively easy to interpret. They were both surprised of the occupation with the highest growth rate, but student 1 identified that it was a little hard to differentiate the occupations since she had to scroll up and down many times to view all the different occupations. On the other hand, student 2 thought the growth rate as percentage could be misleading to certain audiences because people could think that occupations with the highest growth rate could also have the highest paying salary, but in reality, the salaries of the occupations have different levels. They both identified that the intended audience are people interested in chosing their careers paths such as students between their final year of high school or second year of college, but student 2 offered an interesting perspective that people who are planning to switch careers would also be interested. Asthetically, they thought the colors were fine (especially the green vs. grey contrast) and put the bars in descending order was helpful, but student 1 suggested to make the text darker to just all black instead of dark grey, and student 2 recommended adding a percent (%) symbol on the bar labels to make it more intutive because otherwise the audience would have the scroll to the axis to know it is a percentage. Although they both identified that all the data in the bar chart is necessary, they both suggested that adding a career category would help the audience be able to differentiate the occupations, but when looking at the occupations individually, they noticed overlap based on the career fields. I was surprised they both were able to think of this because this idea did not even come up in my mind. This recommendation was most essential in helping me design my final solution. This step was very not only helpful in gaining feedback, but also helped expand my lense to view the visualization from a different perspective.  
 
