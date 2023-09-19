@@ -7,7 +7,7 @@ For this assignment, I used this data visualization, [Charting the 20 Top Growin
 <img src="top20careers_visualization.jpg" width="500" height="500" />
 
 ## Step two: critique the data visualization
-<img src="data_visualization_effectiveness_profile.jpg" width="250" height="1000" />
+<img src="data_visualization_effectiveness_profile.jpg" width="300" height="1000" />
 
 ## Step three: sketch out a solution
 After critiquing the visualization, I had three ideas in mind on how to redesign the visualization: a grouped bar chart, a slope chart, and a simple bar chart. I used flourish to create these sketches. 
