@@ -1,5 +1,5 @@
 # Final Project Part I
-# Promoting Tree Equity in Chicago, Illinois
+# Promoting Tree Equity in Chicago, Illinois from a Public/Population Health Perspective
 
 ## High-level summary of project: 
 For this final project, I plan on focusing on promoting tree equity in Chicago. I have conducted previous research on this topic for other classes, but have not had the opportunity to dive deep into the data available. I hope to convey to my audience that this is not only an enviornmental issue but also a population and public health issue. 
