@@ -19,6 +19,7 @@ To bring this story to life, I plan on utilizing publicy acessible data from dif
 
 ## Initial Sketches: 
 Here are the some of the visualizations I hope to achieve throughout the development of the project. While creating my final visualization, I realized I should have used green as the consistent color gradient/scale instead of blue for the other visualizations. Green will be used in the future visualizations. 
+
 <img src="Sketches.jpg" width="1100" height="1500" />
 
 ## Method and Medium: 
