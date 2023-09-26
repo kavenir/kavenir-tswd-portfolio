@@ -22,7 +22,7 @@ Tree Equity is having a proportionate number of trees in a community so that eve
      Department of Agriculture - Urban and Community Forestry Department. (Data from [US Department of Agriculture - Urban and Community Forestry FY 2023 State Allocations](https://www.fs.usda.gov/managing-land/urban-forests/ucf/fy23-state-allocations))
   - Visualization 3: Discuss Tree Equity Score and Priority Index of Each State - focus on the top states, but highlight where Illinois stands. (Data from [Tree Equity Score] (https://www.treeequityscore.org/methodology#3.69/38.45/-100.76)
 - Narrow in on Illinois, but speficially the Chicago region. (Data from [Tree Equity Score](https://www.treeequityscore.org/methodology#3.69/38.45/-100.76))
-  - Visualization 4: Find specific communities that have a low tree equity score and high priortiy index score
+  - Visualization 4: Find specific communities that have a low tree equity score and high priortiy index score to show which are most in need. 
   - Highlight Reader's Perspective. 
 - Call to action
   - Provide resources such Tree Ambassador Program (TREEmendous Lawndale), link to Our Roots Chicago   
