@@ -44,6 +44,7 @@ Here are the some of the visualizations I hope to achieve throughout the develop
 
 ## Method and Medium: 
 To complete my final project, I plan to build my story using Shorthand. The examples of final projects shown in class used Shorthand, but I liked it because it is a platform that is engaging and can easy to navigate for the intended audience. As I was previosuly conducting research on this topic, I found myself visiting a variety of different websites that all shared valueable information. My hope is that by using Shorthand, a user is able to gather most of the information they need on this issue on my platform and feel compelled to learn more and spread awareness about tree equity to others. 
+- Mention using flourish and tableau
 
 ## References: 
 - Hunter, K. (2022, Sept 14). Under an Urban Canopy: Chicago’s tree ambassadors teach residents about the crucial role trees play in health and health equity. Chicago Health. Retrieved from https://chicagohealthonline.com/chicago-tree-ambassadors/. 
