@@ -20,21 +20,40 @@ To **indentify representative individuals to interview** based on my intended ta
 - **Interviewee C.** Male (early-20s) with a biomedical engineering and physics background with no prior knowledge of tree equity or tree canopy. 
 
 ### Interview script
-In designing my Interview Script, I considered three main aspects of 
+In designing my Interview Script, I focused on three main areas (2 of which are from the GoodCharts Critque Method, 1 from GoodCharts Chapter 7):
+- Design Exection (Asthetics, Layout of Shorthand, and Types of Visualizations)
+- Contextual Awareness (Clarity, Simplicity, Intuitiveness)
+- Persuasion and Manipulation (Motivation, Engagement, Learning Experience) 
+- General Question
 
-| Goal                    | Questions to Ask        |
-|-------------------------|-------------------------|
-|                         |                         |
-|                         |                         |
-|                         |                         |
+
+1. Can you describe to me what you think this visualization is about?
+2. Is there anything you find surprising? Confusing? Misleading? Hard to interpret?
+3. Who do you think is the intended audience?
+4. Is the visualization interesting/does it grab your attention? Or are there stylistic changes that need to be considered such as color, text, etc?
+5. Is the visualization easy to understand with minimal effort and well communicated?
+6. Is all the data included necessary? Is there anything that should be removed or added?
+7. Overall, is there anything you would change or do differently?
+
+| Goal                                             | Questions to Ask        |
+|--------------------------------------------------|-------------------------|
+| Design Execution: Asthetics                      |                         |
+| Design Execution: Layout of Shorthand            |                         |
+| Design Execution: Types of Visualizations        |                         |
+| Contextual Awareness: Clarity                    |                         |
+| Contextual Awareness: Simplicity                 |                         |
+| Contextual Awareness: Inutitiveness              |                         |
+| Persuasion and Manipulation: Motivation          |                         |
+| Persuasion and Manipulation: Engagement          |                         |
+| Persuasion and Manipulation: Learning Experience |                         |
+| Overall: Final Recommendations/Thoughts          |                         |
+
 
 
 Text here!
 
 ### Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+> Details of the findings from your interviews are summarized below: 
 
 | Questions               | Interviewee A                  | Interviewee B                  | Interviewee C                  |
 |-------------------------|--------------------------------|--------------------------------|--------------------------------|
