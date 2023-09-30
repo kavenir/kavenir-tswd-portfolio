@@ -20,10 +20,7 @@ To **indentify representative individuals to interview** based on my intended ta
 - **Interviewee C.** Male (early-20s) with a biomedical engineering and physics background with no prior knowledge of tree equity or tree canopy. 
 
 ### Interview script
-
-
-
-Text here!
+In designing my Interview Script, I considered three main aspects of 
 
 | Goal                    | Questions to Ask        |
 |-------------------------|-------------------------|
