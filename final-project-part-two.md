@@ -40,11 +40,8 @@ In designing my Interview Script, I focused on three main areas (2 of which are 
 | Overall: Final Recommendations/Thoughts          | Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                                        |
 
 
-
-Text here!
-
 ### Interview findings
-> Details of the findings from your interviews are summarized below: 
+> Details of the findings from my interviews are shared and summarized below: 
 
 | Questions               | Interviewee A                  | Interviewee B                  | Interviewee C                  |
 |-------------------------|--------------------------------|--------------------------------|--------------------------------|
