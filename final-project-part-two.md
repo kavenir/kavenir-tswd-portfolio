@@ -44,18 +44,24 @@ In designing my Interview Script, I focused on three main areas (2 of which are 
 The interviews with Interviewee A and B were conducted virtually while Interviewee C was interviewed in person. During the interview, I gave interviewees 5 minutes to control of my storyboard/wireframe, where they could scroll through Shorthand as much as they needed within the alloted time. If they needed more time, I gave them a few more minutes and ask if they were ready to proceed with the questions. 
 
 > Details of the findings from my interviews are shared and summarized below:
-
-| Questions               | Interviewee A                  | Interviewee B                  | Interviewee C                  |
-|-------------------------|--------------------------------|--------------------------------|--------------------------------|
-| Question you asked here | Insightful feedback            |                                |                                |
-|                         |                                |                                |                                |
-|                         |                                |                                |                                |
-
+| Question(s) Asked                                                                                                                               | Interviewee A  | Interviewee B  | Interviewee C |      
+|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|---------------|
+| 1. Are there any elements that are distracting or confusing such as layout, color, text, font?                                                  |                                                 |
+| 2. Does the chosen layout of Shorthand make the story flow well?                                                                                |                                                 |
+| 3. Are the visualizations used appropriate for the data used? Are they clear? Confusing? Misleading?                                            |                                                 |
+| 4. Is the overall story and objective clear? Is there anything you think needs to be clarifed more?                                             |                                                 |
+| 5. Is the story easy to follow, or were there places that were more difficult to understand than others?                                        |                                                 |
+| 6. Is the story inuitive and clear? Are there any improvements that need to be made to the storyboard? Additional information needed?           |                                                 |
+| 7. Do you feel motivated to learn more about tree equity or tree canopy in Chicago or your place of choice?                                     |                                                 |
+| 8. While looking through the storyboard/wireframe, did you stay engaged throughout or were there places where you began to become uninterested? |                                                 |
+| 9. Did you learn anything? Is there something else you wish/hoped to learn after viewing the whole storyboard?                                  |                                                 |
+| 10. Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                                       |                                                 |
 
 ## Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+The feedback from the interviewees will be reflected in my final deliverable to address any issues identified. Conducting a user research protocol not only helpful in gaining insightful feedback, but also helped expand my lense to view the storyboard and wireframes from a different perspectives. 
+
+Although I will try to implement all of the feedback from the interviewees, the most essential changes that will be implemented next week in my final deliverable from my user research protcol is shared and summarized below: 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
