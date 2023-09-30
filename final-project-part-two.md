@@ -25,11 +25,11 @@ To **indentify representative individuals to interview** based on my intended ta
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                    | Questions to Ask        |
+|-------------------------|-------------------------|
+|                         |                         |
+|                         |                         |
+|                         |                         |
 
 
 Text here!
@@ -39,7 +39,7 @@ Text here!
 
 Text here!
 
-| Questions               | Interviewee A                  | Interviewee B                  | Interviewee C:                 |
+| Questions               | Interviewee A                  | Interviewee B                  | Interviewee C                  |
 |-------------------------|--------------------------------|--------------------------------|--------------------------------|
 | Question you asked here | Insightful feedback            |                                |                                |
 |                         |                                |                                |                                |
