@@ -41,7 +41,9 @@ In designing my Interview Script, I focused on three main areas (2 of which are 
 
 
 ### Interview findings
-> Details of the findings from my interviews are shared and summarized below: 
+The interviews with Interviewee A and B were conducted virtually while Interviewee C was interviewed in person. During the interview, I gave interviewees 5 minutes to control of my storyboard/wireframe, where they could scroll through Shorthand as much as they needed within the alloted time. If they needed more time, I gave them a few more minutes and ask if they were ready to proceed with the questions. 
+
+> Details of the findings from my interviews are shared and summarized below:
 
 | Questions               | Interviewee A                  | Interviewee B                  | Interviewee C                  |
 |-------------------------|--------------------------------|--------------------------------|--------------------------------|
