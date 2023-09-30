@@ -26,7 +26,7 @@ In designing my Interview Script, I focused on three main areas (2 of which are 
 - Persuasion and Manipulation (Motivation, Engagement, Learning Experience) 
 - General Question
 
-| Goal                                             | Question(s)to Ask                                                                                                                            |
+| Goal                                             | Question(s) to Ask                                                                                                                           |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Design Execution: Asthetics                      | Are there any elements that are distracting or confusing such as layout, color, text, font?                                                  |
 | Design Execution: Layout of Shorthand            | Does the chosen layout of Shorthand make the story flow well?                                                                                |
