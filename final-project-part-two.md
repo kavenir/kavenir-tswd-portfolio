@@ -26,27 +26,18 @@ In designing my Interview Script, I focused on three main areas (2 of which are 
 - Persuasion and Manipulation (Motivation, Engagement, Learning Experience) 
 - General Question
 
-
-1. Can you describe to me what you think this visualization is about?
-2. Is there anything you find surprising? Confusing? Misleading? Hard to interpret?
-3. Who do you think is the intended audience?
-4. Is the visualization interesting/does it grab your attention? Or are there stylistic changes that need to be considered such as color, text, etc?
-5. Is the visualization easy to understand with minimal effort and well communicated?
-6. Is all the data included necessary? Is there anything that should be removed or added?
-7. Overall, is there anything you would change or do differently?
-
-| Goal                                             | Questions to Ask        |
-|--------------------------------------------------|-------------------------|
-| Design Execution: Asthetics                      |                         |
-| Design Execution: Layout of Shorthand            |                         |
-| Design Execution: Types of Visualizations        |                         |
-| Contextual Awareness: Clarity                    |                         |
-| Contextual Awareness: Simplicity                 |                         |
-| Contextual Awareness: Inutitiveness              |                         |
-| Persuasion and Manipulation: Motivation          |                         |
-| Persuasion and Manipulation: Engagement          |                         |
-| Persuasion and Manipulation: Learning Experience |                         |
-| Overall: Final Recommendations/Thoughts          |                         |
+| Goal                                             | Question(s)to Ask                                                                                                                            |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Design Execution: Asthetics                      | Are there any elements that are distracting or confusing such as layout, color, text, font?                                                  |
+| Design Execution: Layout of Shorthand            | Does the chosen layout of Shorthand make the story flow well?                                                                                |
+| Design Execution: Types of Visualizations        | Are the visualizations used appropriate for the data used? Are they clear? Confusing? Misleading?                                            |
+| Contextual Awareness: Clarity                    | Is the overall story and objective clear? Is there anything you think needs to be clarifed more?                                             |
+| Contextual Awareness: Simplicity                 | Is the story easy to follow, or were there places that were more difficult to understand than others?                                        |
+| Contextual Awareness: Inutitiveness              | Is the story inuitive and clear? Are there any improvements that need to be made to the storyboard? Additional information needed?           |
+| Persuasion and Manipulation: Motivation          | Do you feel motivated to learn more about tree equity or tree canopy in Chicago or your place of choice?                                     |
+| Persuasion and Manipulation: Engagement          | While looking through the storyboard/wireframe, did you stay engaged throughout or were there places where you began to become uninterested? |
+| Persuasion and Manipulation: Learning Experience | Did you learn anything? Is there something else you wish/hoped to learn after viewing the whole storyboard?                                  |
+| Overall: Final Recommendations/Thoughts          | Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                                        |
 
 
 
