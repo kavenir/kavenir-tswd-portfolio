@@ -41,14 +41,13 @@ In designing my Interview Script, I focused on three main areas (2 of which are 
 | Persuasion and Manipulation: Learning Experience | Did you learn anything? Is there something else you wish/hoped to learn after viewing the whole storyboard?                                  |
 | Overall: Final Recommendations/Thoughts          | Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                                        |
 
-
 ### Interview findings
 The interviews with Interviewee A and B were conducted virtually while Interviewee C was interviewed in person. During the interview, I gave interviewees 5 minutes to control of my storyboard/wireframe, where they could scroll through Shorthand as much as they needed within the alloted time. If they needed more time, I gave them a few more minutes and ask if they were ready to proceed with the questions. 
 
 Details of the findings from my interviews are shared and summarized below:
 
-
-
+<img src="interview_findings_1.jpg" width="500" height="500" />
+<img src="interview_findings_2.jpg" width="500" height="500" />
 
 ## Identified changes for Part III
 
@@ -56,6 +55,6 @@ The feedback from the interviewees will be reflected in my final deliverable to 
 
 Although I will try to implement all of the feedback from the interviewees, the five most essential changes that will be implemented next week in my final deliverable from my user research protcol is shared and summarized below: 
 
-
+<img src="identified_changes_part3.jpg" width="500" height="500" />
 
 I also plan to do more research to the allocation section (as suggested by Interviewee A where I will include another graphic that shows the top 10 states that received the most funding and also consider adding an element that puts the funding into perspetive of per capita per population. It was not mentioned in the table since it was only given by only one interviewee, the changes identified above reflect similarities among the interviews.Overall, I need to make sure to add references/citations for some of the images used. I also used additional data to create some of the visualzations, so I need to make sure to cite those as well. All contextual information should already be cited correctly, but I plan to go through everything again to double check. Then, I will so go through my storyboard again to make sure there are no gramatical errors, ensure the text font is consistent throughout, and frame all transitions as questions instead of switching back and forth between questions and statements. 
