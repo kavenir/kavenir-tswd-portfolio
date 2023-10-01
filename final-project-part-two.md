@@ -49,15 +49,15 @@ Details of the findings from my interviews are shared and summarized below:
 
 | Question(s) Asked                                                                                                                               | Interviewee A  | Interviewee B  | Interviewee C |      
 |-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|---------------|
-| 1. Are there any elements that are distracting or confusing such as layout, color, text, font?                                                  |                                                 |
+| 1. Are there any elements that are distracting or confusing such as layout, color, text, or font?                                               |                                                 |
 | 2. Does the chosen layout of Shorthand make the story flow well?                                                                                |                                                 |
 | 3. Are the visualizations used appropriate for the data used? Are they clear? Confusing? Misleading?                                            |                                                 |
-| 4. Is the overall story and objective clear? Is there anything you think needs to be clarifed more?                                             |                                                 |
+| 4. Is the overall story and objective clear? Is there anything that needs to be clarified more?                                                 |                                                 |
 | 5. Is the story easy to follow, or were there places that were more difficult to understand than others?                                        |                                                 |
-| 6. Is the story inuitive and clear? Are there any improvements that need to be made to the storyboard? Additional information needed?           |                                                 |
+| 6. Is the story intuitive and clear? Are there any improvements that need to be made to the storyboard? Additional information needed?          |                                                 |
 | 7. Do you feel motivated to learn more about tree equity or tree canopy in Chicago or your place of choice?                                     |                                                 |
-| 8. While looking through the storyboard/wireframe, did you stay engaged throughout or were there places where you began to become uninterested? |                                                 |
-| 9. Did you learn anything? Is there something else you wish/hoped to learn after viewing the whole storyboard?                                  |                                                 |
+| 8. While looking through the storyboard/wireframe, did you stay engaged throughout, or were there places where you began to become uninterested?|                                                 |
+| 9. Did you learn anything? Is there something else you wish/hope to learn after viewing the whole storyboard?                                   |                                                 |
 | 10. Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                                       |                                                 |
 
 ## Identified changes for Part III
