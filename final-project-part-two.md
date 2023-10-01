@@ -47,31 +47,15 @@ The interviews with Interviewee A and B were conducted virtually while Interview
 
 Details of the findings from my interviews are shared and summarized below:
 
-| Question(s) Asked                                                                                                                               | Interviewee A  | Interviewee B  | Interviewee C |      
-|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|---------------|
-| 1. Are there any elements that are distracting or confusing such as layout, color, text, or font?                                               |                                                 |
-| 2. Does the chosen layout of Shorthand make the story flow well?                                                                                |                                                 |
-| 3. Are the visualizations used appropriate for the data used? Are they clear? Confusing? Misleading?                                            |                                                 |
-| 4. Is the overall story and objective clear? Is there anything that needs to be clarified more?                                                 |                                                 |
-| 5. Is the story easy to follow, or were there places that were more difficult to understand than others?                                        |                                                 |
-| 6. Is the story intuitive and clear? Are there any improvements that need to be made to the storyboard? Additional information needed?          |                                                 |
-| 7. Do you feel motivated to learn more about tree equity or tree canopy in Chicago or your place of choice?                                     |                                                 |
-| 8. While looking through the storyboard/wireframe, did you stay engaged throughout, or were there places where you began to become uninterested?|                                                 |
-| 9. Did you learn anything? Is there something else you wish/hope to learn after viewing the whole storyboard?                                   |                                                 |
-| 10. Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                                       |                                                 |
+
+
 
 ## Identified changes for Part III
 
-The feedback from the interviewees will be reflected in my final deliverable to address any issues identified. Conducting a user research protocol not only helpful in gaining insightful feedback, but also helped expand my lense to view the storyboard and wireframes from a different perspectives. 
+The feedback from the interviewees will be reflected in my final deliverable to address any issues identified. There were mostly similarities in the feedback given from interviews in regards to clear overall story and objective and thought the content was engaging interesting, but the main differences were mostly in asthetics and additional information need. Conducting a user research protocol not only helpful in gaining insightful feedback, but also helped expand my lense to view the storyboard and wireframes from a different perspectives. 
 
-Although I will try to implement all of the feedback from the interviewees, the most essential changes that will be implemented next week in my final deliverable from my user research protcol is shared and summarized below: 
+Although I will try to implement all of the feedback from the interviewees, the five most essential changes that will be implemented next week in my final deliverable from my user research protcol is shared and summarized below: 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-Additionally, I need to make sure to add references/citations for some of the images used. I also used additional data to create some of the visualzations, so I need to make sure to cite those as well. All contextual information should already be cited correctly, but I plan to go through everything again to double check. 
+
+I also plan to do more research to the allocation section (as suggested by Interviewee A where I will include another graphic that shows the top 10 states that received the most funding and also consider adding an element that puts the funding into perspetive of per capita per population. It was not mentioned in the table since it was only given by only one interviewee, the changes identified above reflect similarities among the interviews.Overall, I need to make sure to add references/citations for some of the images used. I also used additional data to create some of the visualzations, so I need to make sure to cite those as well. All contextual information should already be cited correctly, but I plan to go through everything again to double check. Then, I will so go through my storyboard again to make sure there are no gramatical errors, ensure the text font is consistent throughout, and frame all transitions as questions instead of switching back and forth between questions and statements. 
