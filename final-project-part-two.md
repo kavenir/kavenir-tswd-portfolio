@@ -19,7 +19,7 @@ To **indentify representative individuals to interview** based on my intended ta
 
 - **Interviewee A.** Female (mid-30s) with a business and logistics background who lived in Northern Chicago for 6 years. 
 - **Interviewee B.** Male (early-30s) with an information technology, policy, and data analytics background who is enviornmentally concious due to previous enviornmental experiences within his hometown in India. 
-- **Interviewee C.** Male (early-20s) with a biomedical engineering and physics background with no prior knowledge of tree equity or tree canopy. 
+- **Interviewee C.** Male (early-20s) with a biomedical engineering and physics background with little prior knowledge of tree equity or tree canopy and is indifferent about the issue. 
 
 ### Interview script
 In designing my Interview Script, I focused on three main areas (2 of which are from the GoodCharts Critque Method, 1 from GoodCharts Chapter 7):
