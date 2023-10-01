@@ -5,7 +5,9 @@
 ## Wireframes / storyboards
 To further develop my story outline and relevant components visually through the use of wireframing / storyboards, I decided to directly use Shorthand to get a jump start of the final deliverable and thought it would the best way to recieve the most critical and impactful feedback during my interviews. 
 
-My story outline draft using Shorthand can be viewed below. 
+My story outline draft using Shorthand can be viewed below: 
+
+<script src="https://carnegiemellon.shorthandstories.com/promoting-tree-canopy-and-tree-equity-in-chicago/embed.js"></script>
 
 ## User research protocol
 
