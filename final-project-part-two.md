@@ -46,8 +46,8 @@ The interviews with Interviewee A and B were conducted virtually while Interview
 
 Details of the findings from my interviews are shared and summarized below:
 
-<img src="interview_findings_1.jpg" width="700" height="500" />
-<img src="interview_findings_2.jpg" width="700" height="500" />
+<img src="interview_findings_1.jpg" width="600" height="500" />
+<img src="interview_findings_2.jpg" width="600" height="500" />
 
 ## Identified changes for Part III
 
