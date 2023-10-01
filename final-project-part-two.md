@@ -74,6 +74,4 @@ Although I will try to implement all of the feedback from the interviewees, the 
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+Additionally, I need to make sure to add references/citations for some of the images used. I also used additional data to create some of the visualzations, so I need to make sure to cite those as well. All contextual information should already be cited correctly, but I plan to go through everything again to double check. 
