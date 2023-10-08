@@ -1,3 +1,5 @@
+| [home page](https://kavenir.github.io/kavenir-tswd-portfolio/) | [visualizing debt](https://kavenir.github.io/kavenir-tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://kavenir.github.io/kavenir-tswd-portfolio/critique-by-design.html) | [final project I](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-one.html) | [final project II](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-two.html) | [final project III](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-three.html) |
+
 # Final Project Part I
 # Promoting Tree Equity in Chicago, Illinois from a Public/Population Health Perspective
 
