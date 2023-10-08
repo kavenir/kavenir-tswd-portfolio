@@ -29,8 +29,6 @@ References are already included in the Shorthand under the resources section. Th
 - N.A. Redlining: The Economics of Musical Training. Photograph. Foundations of House, 2023. https://www.foundationsofhouse.com/blog/redlining-the-economics-of-musical-training
 - Travers, J. (2021, Sept 3). Tree equity. The Ecologist Informed by Nature. Retrieved from https://theecologist.org/2021/sep/03/tree-equity.
 
-Text here!
-
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
