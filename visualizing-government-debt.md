@@ -1,3 +1,5 @@
+| [home page](https://kavenir.github.io/kavenir-tswd-portfolio/) | [visualizing debt](https://kavenir.github.io/kavenir-tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://kavenir.github.io/kavenir-tswd-portfolio/critique-by-design.html) | [final project I](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-one.html) | [final project II](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-two.html) | [final project III](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-three.html) |
+
 # Data Visualization Assignment #1: Visualizing government debt
 ## Part 1: Working with web-based visualization tools and data
 ### This *bar chart visualization* represents data from The Organization for Economic Co-operation and Development (OECD) focusing on general government debt-to-GDP ratio in 2014. Within this bar chart, we can also see which countries fall above or below the OECD-Average (bar colored back). It is an interactive visualization where you can click on a bar, and it will display its information (Country, Year, % GDP). 
