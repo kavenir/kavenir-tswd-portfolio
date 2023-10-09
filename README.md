@@ -52,3 +52,4 @@ I have always had a interest in the healthcare field and a passion for helping o
 
 ## Week 7
 - **Final Project Presentation: [Part One](final-project-part-one.md), [Part Two](final-project-part-two.md), [Part Three](final-project-part-three.md)**
+- **Final Deliverable: [Final Project Deliverable via Shorthand](shorthand.md)**
