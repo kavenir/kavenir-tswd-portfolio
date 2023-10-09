@@ -6,19 +6,15 @@ My final deliverable from Shorthand on Promoting Equitable Tree Canopy in Chicag
 
 <script src="https://carnegiemellon.shorthandstories.com/promoting-tree-canopy-and-tree-equity-in-chicago/embed.js"></script>
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+## Changes made since Part II/Final design decisions
+> Include few paragraphs that reflects on changes you made since the completion of Part II.
+> > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
 Text here!
 
 ## The audience
 
 After the three interviews and the additional critique in during class (10/03), the audience for my final data story are residents of Chicago, those who are enviornmentally concious (can be from anywhere), and those with an passion for public policy. After conducting the interviews, I was able to feel the sense of geniune engagement and interest from Interviewee A, a past resident of Chicago, and Interviewee B, a student who is enviornmentally concious as compared to the Interviewee C, who was indifferent about the issue. Althought I knew I wanted the main target audience to be those from Chicago, Interviewee B, and my classmates who are from public policy programs expressed their genuine interest in the topic because of their environmental awareness and because when I brought up the policy from the 1930s of discrimination redlining in Chicago, they said "a light clicked/turned on in their mind" that made them realize why this issue matters. To make the story work for my target audience, I resorted the slides to have the problem address in the beginning rather than the end so that they really could get a sense of the history and policy of the issue. For example, before I had the redlining context and reality context slides more towards the end of the presentation, but I decided to move them to the beginning after the overview and benefits to really bring to attention the issue at hand and have the "light click" earlier in the audience's mind. Additionally, on the redlining section, I added a button that the audience can click on to to learn more about hte Chicago Tribune's study and how redlining has impacted tree canopy and tree equity in Chicago. Finally, instead of just providing references for Chicago at the end, I provided an additional resource that will allow them to look at tree equity and tree canopy for the city or state of their choice. 
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
 References are already included in the Shorthand under the resources section. They are listed here again for convenience. Additionally all data sources were cited via Flourish and can be viewed at the bottom of each of the visualizations. 
