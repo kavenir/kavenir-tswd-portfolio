@@ -24,10 +24,10 @@ Text here!
 ## References
 References are already included in the Shorthand under the resources section. They are listed here again for convenience. Additionally all data sources were cited via Flourish and can be viewed at the bottom of each of the visualizations. 
 
-- Hunter, K. (2022, Sept 14). Under an Urban Canopy: Chicago’s tree ambassadors teach residents about the crucial role trees play in health and health equity. Chicago Health. Retrieved from https://chicagohealthonline.com/chicago-tree-ambassadors/.
-- N.A. Our Roots Chicago Equitably Expanding Chicago’s Tree Canopy. Photograph. City of Chicago, 2022. https://www.chicago.gov/city/en/sites/our-roots-chicago/home.html
-- N.A. Redlining: The Economics of Musical Training. Photograph. Foundations of House, 2023. https://www.foundationsofhouse.com/blog/redlining-the-economics-of-musical-training
-- Travers, J. (2021, Sept 3). Tree equity. The Ecologist Informed by Nature. Retrieved from https://theecologist.org/2021/sep/03/tree-equity.
+- Hunter, K. (2022, September 14). Under an Urban Canopy: Chicago’s tree ambassadors teach residents about the crucial role trees play in health and health equity. _Chicago Health_. https://chicagohealthonline.com/chicago-tree-ambassadors/
+- N.A. (2022). Our Roots Chicago Equitably Expanding Chicago’s Tree Canopy [Photograph]. _City of Chicago_. https://www.chicago.gov/city/en/sites/our-roots-chicago/home.html
+- N.A. (2023). Redlining: The Economics of Musical Training [Photograph]. _Foundations of House_. https://www.foundationsofhouse.com/blog/redlining-the-economics-of-musical-training
+- Travers, J. (2021, September 3). Tree equity. _The Ecologist Informed by Nature_. https://theecologist.org/2021/sep/03/tree-equity
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
