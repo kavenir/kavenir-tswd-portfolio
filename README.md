@@ -52,4 +52,4 @@ I have always had a interest in the healthcare field and a passion for helping o
 
 ## Week 7
 - **Final Project Presentation: [Part One](final-project-part-one.md), [Part Two](final-project-part-two.md), [Part Three](final-project-part-three.md)**
-- **Final Project Deliverable via Shorthand: [Shorthand Deliverable](https://carnegiemellon.shorthandstories.com/promoting-tree-canopy-and-tree-equity-in-chicago/index.html)**
+- **Final Project Deliverable via Shorthand: [Promoting Equitable Tree Canopy in Chicago, IL](https://carnegiemellon.shorthandstories.com/promoting-tree-canopy-and-tree-equity-in-chicago/index.html)**
