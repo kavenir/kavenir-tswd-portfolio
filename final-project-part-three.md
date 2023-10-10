@@ -31,7 +31,8 @@ Additional changes:
 - I decided to move the information around such as the history of Chicago redlining in the 1930s and side-by-side neighborhood comparison to the beginning of the story since to make the "light switch to on" in the audience's mind as they learn more about my story (provided as feedback from the in class critique - 10/03). 
 - I moved the definitions of tree canopy and tree equity to its own section so it is clear and easily accessible to the audience if they need to refer back to the defintions.
 - I decided to keep the map where it is instead of moving it to the end (provided as feedback from the in class critique - 10/03) because it makes the story flow well, but if people are interested in learning about tree canopy or tree equity in a different city or state of choice, I added a button at the end that links additional resource that provides the breakdown of the metrics nationally.
-- I only used unplashed images to not risk any copyright issues, besides one image that I thought was necessary: the Our Roots Chicago Logo. At first I was really discouraged, that I could not include the Chicago redlining map circa 1930s due to copyright, but instead I just added a button in which the viewer can click on to take them to an external cite to see the redlining map. Also, at first I was also really discouraged that I could not use actual pictures of the neighborhoods in the reality section to show the differences, but then I just instead found images that portrayed what these neighborhoods might look like and put a small note at the bottom of the section to let the audience know these are not real images of Chicago, but instead representations. 
+- I only used unplashed images to not risk any copyright issues, besides one image that I thought was necessary: the Our Roots Chicago Logo. At first I was really discouraged, that I could not include the Chicago redlining map circa 1930s due to copyright, but instead I just added a button in which the viewer can click on to take them to an external cite to see the redlining map. Also, at first I was also really discouraged that I could not use actual pictures of the neighborhoods in the reality section to show the differences, but then I just instead found images that portrayed what these neighborhoods might look like and put a small note at the bottom of the section to let the audience know these are not real images of Chicago, but instead representations.
+- Lastly, I removed "from a population and public health perspective" because initially I wanted to focus more on the health aspect of it, but the story and the data turned out to be more generally about tree canopy and tree equity in Chicago, rather than to soley focus on benefits of them. 
 
 Overall, the feedback I got from my user interviews and the the critique covered in class (10/03) was all crucial in helping me produce my final delieverable that I am very proud of! 
 
@@ -42,11 +43,12 @@ After the three interviews and the additional critique in during class (10/03), 
 ## References
 References are already included in the Shorthand under the resources section in APA format. They are listed here again for convenience. Additionally, all data sources were cited via Flourish and can be viewed at the bottom of each of the visualizations. 
 
-- Hunter, K. (2022, September 14). Under an Urban Canopy: Chicago’s tree ambassadors teach residents about the crucial role trees play in health and health equity. _Chicago Health_. https://chicagohealthonline.com/chicago-tree-ambassadors/
-- N.A. (2023). Methodology: Tree Equity Score. American Forests: _Tree Equity Score_. https://www.treeequityscore.org/methodology
-- N.A. (2022). Our Roots Chicago Equitably Expanding Chicago’s Tree Canopy [Photograph]. _City of Chicago_. https://www.chicago.gov/city/en/sites/our-roots-chicago/home.html
-- N.A. (2023). Tree Canopy Definition. _Law Insider_. https://www.lawinsider.com/dictionary/tree-canopy
-- Travers, J. (2021, September 3). Tree equity. _The Ecologist Informed by Nature_. https://theecologist.org/2021/sep/03/tree-equity
+1. Hunter, K. (2022, September 14). Under an Urban Canopy: Chicago’s tree ambassadors teach residents about the crucial role trees play in health and health equity. Chicago Health. https://chicagohealthonline.com/chicago-tree-ambassadors/
+2. N.A. (2023). Methodology: Tree Equity Score. American Forests: Tree Equity Score. https://www.treeequityscore.org/methodology
+3. N.A. (2022). Our Roots Chicago Equitably Expanding Chicago’s Tree Canopy. City of Chicago. https://www.chicago.gov/city/en/sites/our-roots-chicago/home.html
+4. N.A. (2022). Our Roots Chicago Equitably Expanding Chicago’s Tree Canopy [Photograph]. City of Chicago. https://www.chicago.gov/city/en/sites/our-roots-chicago/home.html
+5. N.A. (2023). Tree Canopy Definition. Law Insider. https://www.lawinsider.com/dictionary/tree-canopy
+6. Travers, J. (2021, September 3). Tree equity. The Ecologist Informed by Nature. https://theecologist.org/2021/sep/03/tree-equity
 
 ## Final thoughts
 
