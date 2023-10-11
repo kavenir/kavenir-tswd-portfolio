@@ -1,3 +1,5 @@
+| [home page](https://kavenir.github.io/kavenir-tswd-portfolio/) | [visualizing debt](https://kavenir.github.io/kavenir-tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://kavenir.github.io/kavenir-tswd-portfolio/critique-by-design.html) | [final project I](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-one.html) | [final project II](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-two.html) | [final project III](https://kavenir.github.io/kavenir-tswd-portfolio/final-project-part-three.html) | [final project deliverable](https://carnegiemellon.shorthandstories.com/promoting-tree-canopy-and-tree-equity-in-chicago/index.html)
+
 # kavenir-tswd-portfolio
 This is my public portfolio for Telling Stories with Data at Heinz College of Carnegie Mellon University! 
 
