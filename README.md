@@ -3,8 +3,8 @@
 # kavenir-tswd-portfolio
 This is my public portfolio for Telling Stories with Data at Heinz College of Carnegie Mellon University! 
 
-- **Web Page URL: (https://kavenir.github.io/kavenir-tswd-portfolio/**)
-- **This repository: (https://github.com/kavenir/kavenir-tswd-portfolio.git**)
+- **Web Page URL: https://kavenir.github.io/kavenir-tswd-portfolio/**
+- **This repository: https://github.com/kavenir/kavenir-tswd-portfolio.git**
 
 # About me 
 <img src="Katelin_Avenir.jpg" width="250" height="250" />
